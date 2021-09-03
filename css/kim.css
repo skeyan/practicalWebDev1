@@ -1,0 +1,20 @@
+.animal-banner-container {
+    height: 550px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 40px;
+}
+.animal-bottom-container {
+    background-color: blanchedalmond;
+    position: absolute;
+    margin-top: 506px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.bear-name {
+    color: coral;
+    font-weight: bold;
+}

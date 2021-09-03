@@ -14,7 +14,7 @@
     left: 0;
 }
 
-.bear-name {
+.animal-name {
     color: coral;
     font-weight: bold;
 }
@@ -22,4 +22,14 @@
 .animal-picture {
     height: 250px;
     padding-top: 20px;
+}
+
+.animal-caption {
+    font-style: italic;
+    font-weight: lighter;
+    padding-top: 20px;
+}
+
+.animal-info {
+    padding: 20px 100px 0px 100px;
 }

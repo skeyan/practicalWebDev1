@@ -1,0 +1,35 @@
+.animal-banner-container {
+    height: 550px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 40px;
+}
+.animal-bottom-container {
+    background-color: blanchedalmond;
+    position: absolute;
+    margin-top: 506px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.animal-name {
+    color: coral;
+    font-weight: bold;
+}
+
+.animal-picture {
+    height: 250px;
+    padding-top: 20px;
+}
+
+.animal-caption {
+    font-style: italic;
+    font-weight: lighter;
+    padding-top: 20px;
+}
+
+.animal-info {
+    padding: 20px 100px 0px 100px;
+}

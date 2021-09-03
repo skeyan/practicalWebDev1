@@ -18,3 +18,8 @@
     color: coral;
     font-weight: bold;
 }
+
+.animal-picture {
+    height: 250px;
+    padding-top: 20px;
+}
